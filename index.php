@@ -13,17 +13,7 @@
 <meta property="og:url" content="https://rpcs3.net" />
 <meta property="og:locale" content="en_US"/>
 <meta property="og:type" content="website" />
-<meta property="og:site_name" content="RPCS3" />
 
-<meta name="twitter:title" content="RPCS3 - The PlayStation 3 Emulator">
-<meta name="twitter:description" content="RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD made possible with the power of reverse engineering.">
-<meta name="twitter:image" content="https://rpcs3.net/img/meta/mobile/1200.png">
-<meta name="twitter:site" content="@rpcs3">
-<meta name="twitter:creator" content="@rpcs3">
-<meta name="twitter:card" content="summary_large_image">
-<?php include 'lib/module/sys-css.php';?>
-<?php include 'lib/module/sys-js.php';?>
-<script data-cfasync="false" src='/lib/js/carousel.js?v=1'></script>
 </head>
 <body>
 <img src="/img/graphics/landing/hero-main.png" width="1" height="1" alt="preload"/>
@@ -33,20 +23,7 @@
 <?php include 'lib/module/sys-php.php';?>
 <?php include 'lib/module/inc-video-popout.php'?>
 <?php
-	preloadVideo(
-	'1',
-	'60lq9pXzDic',
-	'1'
-	);
-	preloadVideo(
-	'2',
-	'MXHfGzEDz-I',
-	'2'
-	);
-	preloadVideo(
-	'3',
-	'PU3A755xcDQ',
-	'3'
+	
 	);
 ?>
 <div class="page-con-content landing-con-override">
